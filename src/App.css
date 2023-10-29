@@ -1,5 +1,6 @@
 .top{
-    background-color: blue;
+    /* background-color: blue; */
+    background-image: linear-gradient(to right, #5a3f37, #2c7744);
     display: flex;
     justify-content: center;
     align-items: center;
